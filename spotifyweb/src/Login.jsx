@@ -11,7 +11,7 @@ function Login() {
       />
       <div className="login">
         <h1>
-          Welcome to <a>Our Music</a>
+          Welcome to <a className="osicColor">Our Music</a>
         </h1>
         <h2>Sign In</h2>
         <form className="inputBox">
