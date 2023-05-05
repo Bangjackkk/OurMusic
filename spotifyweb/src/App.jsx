@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route exact path="/login" Component={Login}></Route>
+        <Route exact path="/" Component={Login}></Route>
         <Route exact path="/osic" Component={Osic}></Route>
       </Routes>
     </div>
