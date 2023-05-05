@@ -42,8 +42,9 @@
   margin-bottom: 10px;
 }
 
-.login h1 a {
+.osicColor {
   color: #0099c2;
+  text-decoration: none;
 }
 
 .login h2 {
